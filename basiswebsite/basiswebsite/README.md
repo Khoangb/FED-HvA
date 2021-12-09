@@ -148,20 +148,24 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
+#### Titel eerste bevinding: Taal van de website code
 Hier korte omschrijving (met indien nodig een afbeelding)
+De website is staat in de code op Nederlands, maar de website is in het Engels geschreven.
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Verander de "NL" in de HTML taal naar "EN"
 
-
-#### Titel tweede bevinding. 
+#### Titel tweede bevinding: Met TAB toets door de website
 Hier korte omschrijving (met indien nodig een afbeelding)
+Bijna alles werkt met de tab toets. Gezien het een marketplace website is, moeten de afbeeldingen ook toegankelijk zijn met de TAB toets.
+Maar die werkt nu nog niet. 
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+De afbeeldingen die je naar een andere pagina sturen, moeten een link worden. 
 
-
-#### Titel volgende bevinding. 
+#### Titel volgende bevinding: Parkinson / Spasmes
 Hier korte omschrijving (met indien nodig een afbeelding)
+De website is prima te bedienen met gekke bewegingen, een carousel bedienen met naar links en rechts ging wel lastiger.
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
