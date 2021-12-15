@@ -133,6 +133,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - punt 2
 - nog een punt
 - ...
+ Niet aanwezig
 
 </details>
 
@@ -203,10 +204,11 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- 1 figure per figcaption
+- gebruik span bij de figcaption
+- footer met <ul> & <li>
+- em, px, % -> meer consistency
+- calc % aanpassen. Zou maar op 1 device kunnen werken
 
 </details>
 
@@ -239,8 +241,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
+1. Na gemaakte website:  https://www.cardtrader.com/en
+2. Bron voor de navigatie: https://codepen.io/shooft/pen/mdwEodd
 3. ...
 
 </details>
