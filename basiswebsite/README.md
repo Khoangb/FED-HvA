@@ -40,11 +40,11 @@ https://www.cardtrader.com/en
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage 
-<img src="images/home.png" width="375px" alt="homepage">
+<img src="./images/home.png" width="375px" alt="homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 itemlisting
-<img src="images/item.png" width="375px" alt="itemlisting">
+<img src="./images/item.png" width="375px" alt="itemlisting">
  
 </details>
 
@@ -56,10 +56,10 @@ itemlisting
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/Fullpagebreakdown.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="./images/Fullpagebreakdown.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/nav-open.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="./images/nav-open.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -243,6 +243,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. Na gemaakte website:  https://www.cardtrader.com/en
 2. Bron voor de navigatie: https://codepen.io/shooft/pen/mdwEodd
-3. ...
+3. SVG bron: https://www.svgrepo.com/
 
 </details>
