@@ -518,22 +518,31 @@ footer>img {
   left: calc((100% - 300px) / 2);
 }
 
-footer>p:first-of-type {
+footer>p{
   color: var(--ctlight);
   text-align: center;
   font-size: 1em;
+  padding: 1em;
 }
 
 /* --- Footer links --- */
 
 footer>ul {
   list-style-type: none;
-  width: 100%;
+  width: 25%;
   text-align: center;
+
+  float: left;
+}
+
+footer:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 footer>ul>li {
-  color: white;
+  color: var(--ctwhitexgrey);
   text-align: center;
   font-size: 1em;
   padding: .5em;
@@ -553,4 +562,10 @@ footer>ul>li:first-of-type {
 footer>ul>li:not(:first-of-type):hover {
   text-decoration: underline;
   cursor: pointer;
+}
+
+@media screen and (max-width: 50em) {
+  footer>ul {
+    width: 100%;
+  }
 }
