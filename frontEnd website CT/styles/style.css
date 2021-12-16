@@ -426,7 +426,7 @@ article>button:active {
 }
 
 /* --- FAQ part --- */
-section:nth-of-type(5) {
+section:last-of-type {
   background-color: var(--ctwhitexgrey);
   padding-left: .5em;
   padding-right: .5em;
@@ -541,6 +541,12 @@ footer:after {
   clear: both;
 }
 
+@media screen and (max-width: 50em) {
+  footer>ul {
+    width: 100%;
+  }
+}
+
 footer>ul>li {
   color: var(--ctwhitexgrey);
   text-align: center;
@@ -562,10 +568,4 @@ footer>ul>li:first-of-type {
 footer>ul>li:not(:first-of-type):hover {
   text-decoration: underline;
   cursor: pointer;
-}
-
-@media screen and (max-width: 50em) {
-  footer>ul {
-    width: 100%;
-  }
 }
